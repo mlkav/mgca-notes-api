@@ -1,7 +1,4 @@
-rnlkav7@cloudshell:~ (mgca-notes-api-rnlkav)$ kubectl get service notes-api-deployment
-NAME                   TYPE           CLUSTER-IP      EXTERNAL-IP      PORT(S)        AGE
-notes-api-deployment   LoadBalancer   34.118.238.30   34.101.224.144   80:31202/TCP   18m
-
+# Setup
 
 ```bash
 #setup_submission.sh
